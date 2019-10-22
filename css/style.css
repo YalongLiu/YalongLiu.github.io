@@ -428,10 +428,10 @@ header {
 }
 .side_top {
     text-align: right;
-    padding: 6em 2.5em 0;
+    padding: 2em 2.5em 0;
 }
 .banner-text-w3ls {
-    padding: 8em 4em 4em 4em;
+    padding: 4em 4em 4em 4em;
 }
 .banner-text-w3ls h2 {
     color: #787878;
@@ -442,13 +442,25 @@ header {
 p.banp {
     font-size: 18px;
     letter-spacing: 1px;
-    color: #999;
+    color: #666;
     font-weight: 400;
 }
 p.newsp {
     font-size: 16px;
     letter-spacing: 1px;
     color: #999;
+    font-weight: 400;
+}
+h1.whiteword {
+	font-size: 20px;
+    letter-spacing: 1px;
+    color: #d0d0d0;
+    font-weight: 400;
+}
+h2.blackword {
+	font-size: 36px;
+    letter-spacing: 1px;
+    color: #000;
     font-weight: 400;
 }
 .agile-link-bnr {
@@ -504,7 +516,7 @@ p.newsp {
 h2.w3_head, h3.w3_head {
     font-weight: 400;
     color: #787878;
-    font-size: 1.5em;
+    font-size: 2em;
     letter-spacing: 0.075em;
     line-height: 1.35em;
 }
@@ -537,7 +549,7 @@ p.iner {
 }
 .wedo {
     padding: 4em 4em;
-    background: #ffffff;
+    background: #f0f4f4;
     text-align: left;
     border-top: solid 2px #efefef;
 }
@@ -626,7 +638,7 @@ ul.social_section_1info a:hover {
 .cpy-right {
     padding: 2em 0 0;
     border-top: solid 2px #efefef;
-    margin: 4em 0 0 0;
+    margin: 0 0 0 0;
 }
 #success-message {
 	opacity: 0;
@@ -745,7 +757,7 @@ ul.footer-bottom-list li a {
     letter-spacing: 1px;
 }
 .contact_grid_left {
-    padding-left: 5em;
+    padding-left: 1em;
 }
 /* contact */
 
@@ -765,7 +777,9 @@ ul.footer-bottom-list li a {
 section.gallery {
     background: #f0f4f4;
 }
-
+.background_grey {
+	background: #f0f4f4;
+}
 /*-- //gallery --*/
 /*-- popup --*/
 
@@ -844,22 +858,13 @@ section.gallery {
   visibility: visible;
   opacity: 1;
 }
-
 .popup {
     background: #fff;
     border-radius: 5px;
-    width: 27%;
+    width: 60%;
     position: relative;
-    margin: 15em auto;
-	padding: 5em;
-}
-.popup {
-    background: #fff;
-    border-radius: 5px;
-    width: 40%;
-    position: relative;
-    margin: 8em auto;
-	padding: 3em 1em;
+    margin: 1em auto;
+	padding: 1em 1em;
 }
 .popup p{
 	font-size: 15px;
@@ -898,7 +903,7 @@ section.gallery {
 
 /*-- //popup --*/
 .gallery {
-    padding: 4em 4em;
+    padding: 1em 4em;
     border-top: solid 2px #efefef;
 }
 

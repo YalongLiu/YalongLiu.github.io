@@ -481,7 +481,11 @@ mark,
   max-width: 100%;
   height: auto;
 }
-
+.img-small {
+  max-width: auto;
+  height: 8rem;
+  margin-top: 1rem
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7531,7 +7535,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin-top: 4rem !important;
 }
 
 .mr-5,
