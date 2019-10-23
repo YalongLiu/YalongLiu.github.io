@@ -3024,8 +3024,12 @@ tbody.collapse.show {
   border-bottom-left-radius: calc(.25rem - 1px)
 }
 .img-small {
-  max-width: auto;
+  max-width: 100%;
   height: 15rem;
+}
+.img-pop {
+  max-height: 80%;
+  max-width: 100%;
 }
 @media (min-width:576px) {
   .card-deck {
