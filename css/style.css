@@ -457,6 +457,12 @@ h1.whiteword {
     color: #d0d0d0;
     font-weight: 400;
 }
+a.wordstyle {
+	font-size: 18px;
+    letter-spacing: 1px;
+    color: #f0f0f0;
+    font-weight: 400;
+}
 h2.blackword {
 	font-size: 36px;
     letter-spacing: 1px;
