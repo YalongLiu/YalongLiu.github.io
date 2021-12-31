@@ -1,0 +1,53 @@
+{
+    "base_info": {
+        "name": "Yalong Liu",
+        "brief_tag": "Master Student at Xidian University, China <br> Deep Learning; Medical image processing <br> Email: jamesliu2248@gmail.com</h1>",
+        "brief_intro": "I'm a third-year Master student in the Department of Electronic Engineering, <a href=https://www.xidian.edu.cn>Xidian University</a>, Xian, China. I work at the <a href=http://see.xidian.edu.cn/vipsl/members.html>Visual Information Processing Lab(VIP Lab)</a> under the supervision of Prof. Jie Li. My research interests include Deep Learning, Image segmentation, Medical image processing, Computer Vision, Artificial Intelligence, etc."
+    },
+    "selfphoto": "images/low_resolution/selfphoto.png",
+    "resume_file": "files/CV_YalongLiu_XidianUniversity.pdf",
+    "news": [
+        "10/2019: One paper was submitted to ISBI2020 (<a href=\"#paper_tscnn\" class=\"scroll\">TS CNN</a>).",
+        "09/2019: 2019 National Scholarship for Master, Xidian University",
+        "06/2019: One paper got accepted by Journal of Computer Applications (<a href=\"#paper_resunet\" class=\"scroll\">Here</a>).",
+        "05/2019: One paper got accepted by MICCAI2019 (<a href=\"#paper_rsrcnn\" class=\"scroll\">RS R-CNN</a>)",
+        "04/2019: One paper got accepted by CCML2019 (<a href=\"#paper_resunet\" class=\"scroll\">Here</a>).",
+        "09/2018: First-Class Graduate Scholarship, Xidian University .",
+        "09/2018: The National Third Prize in <em>Imagine Cup 2018 Microsoft 'Innovation Cup' Global Student Technology Competition-China Finals</em>.",
+        "07/2018: School Silver Award in <em>The 3rd China College Students' Internet Plus Innovation and Entrepreneurship Competition</em>.",
+        "04/2018: 2018 Data Science Bowl, Kaggle, Rating: 347/3634 top 10%.",
+        "09/2017: I started my Master life at Xidian University.",
+        "<br>",
+        "06/2017: Outstanding Student, Lanzhou Jiaotong University.",
+        "10/2015: The National Second Price in <em>2015 National Undergraduate Electronics Design Contest</em>.",
+        "10/2014: First-Class Undergraduate Scholarship, Lanzhou Jiaotong University.",
+        "09/2013: I started my Bachelor life at Lanzhou Jiaotong University."
+    ],
+    "publications": [
+        {
+            "name": "tscnn",
+            "image": "TS-CNN.png",
+            "pop_info": "A Deep Learning method to segment punctate white matter lesions (PWMLs).",
+            "info": "Trident Segmentation CNN: A Spatiotemporal Transformation CNN for Punctate White Matter Lesions Segmentation in Preterm Neonates<br><strong>Yalong Liu</strong>, Jie Li, Miaomiao Wang, Zhicheng Jiao, Jian Yang, and Xianjun Li<br><a href=\"http://arxiv.org/abs/1910.09773\">Paper</a>(Submitted to arXiv), <a href=\"https://github.com/YalongLiu/Trident-Segmentation-CNN\">Code</a>;"
+        },
+        {
+            "name": "rsrcnn",
+            "image": "RS R-CNN.png",
+            "pop_info": "A two stage deep learning method to segment punctate white matter lesions (PWMLs) in neonates",
+            "info": "Refined Segmentation R-CNN: A Two-stage Convolutional Neural Network for Punctate White Matter Lesion Segmentation in Preterm infants<br><strong>Yalong Liu</strong>, Jie Li, Ying Wang, Miaomiao Wang, Xianjun Li, Zhicheng Jiao, and Xingbo Gao<br><a href=\"https://link.springer.com/chapter/10.1007%2F978-3-030-32248-9_22\">Paper</a> (Accepted by MICCAI2019), <a href=\"https://github.com/YalongLiu/Refined-Segmentation-R-CNN\">Code</a>;"
+        },
+        {
+            "name": "resunet",
+            "image": "ResUnet.png",
+            "pop_info": "To segment punctated white matter lesion in preterm infants",
+            "info": "Segmentation of Punctated White Matter Lesion in Preterm Infants Based on Refined Deep Residual U-Net<br><strong>Yalong Liu</strong>, Jie Li, Yin Wang, Saifei Wu, and Pei Zou<br><a href=\"http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2019049101\">Paper(Chinese)</a> (Accepted by CCML2019, then be transfered to Journal of Computer Applications);"
+        }
+    ],
+    "contact": {
+        "location": "No.2 South Taibai Road, Xi'an, Shaanxi, 710071, P.R. China",
+        "email": "jamesliu2248@gmail.coms",
+        "github": "https://github.com/YalongLiu",
+        "csdn": "https://blog.csdn.net/beiergelaide",
+        "google_scholar": "https://scholar.google.com/citations?user=EtWm_CIAAAAJ"
+    }
+}

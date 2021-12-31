@@ -347,7 +347,7 @@ li > a:only-child:after {
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background: url("../images/low_resolution/banner-1.jpg") no-repeat bottom;
+	background: url("../images/low_resolution/bg.png") no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -452,7 +452,7 @@ p.newsp {
     font-weight: 400;
 }
 h1.whiteword {
-	font-size: 20px;
+	font-size: 18px;
     letter-spacing: 1px;
     color: #d0d0d0;
     font-weight: 400;
@@ -1052,7 +1052,6 @@ header {
 }
 .contact_grid_left {
     padding-left: 1em;
-    margin-top: 2em;
 }
 .news-grids-middle {
     margin-top: 3em;
