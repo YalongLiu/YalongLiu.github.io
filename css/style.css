@@ -347,7 +347,7 @@ li > a:only-child:after {
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background: url("../images/low_resolution/bg.png") no-repeat bottom;
+	background: url("../images/index/bg.png") no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

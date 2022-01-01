@@ -1,0 +1,123 @@
+{
+    "base_info": {
+        "name": "Yalong Liu"
+    },
+    "data": [
+        {
+            "tag": "tbs",
+            "name": "Test Paper Score Recognition System",
+            "time": "Jul 1, 2017",
+            "abstract": "Auto recognize scores on test papers and flip.",
+            "discription": [
+                "Test Paper Score Recognition Machine",
+                "3D model"
+            ],
+            "images": [
+                "TestPaperScoreRecognitionMachine.jpg",
+                "TPRMmodel.JPG"
+            ]
+        },
+        {
+            "tag": "ybot",
+            "name": "Y Bot",
+            "time": "Jul 10, 2016",
+            "abstract": "Application Robot Teaching Experiment Platform Based on STM32 and FPGA.",
+            "discription": [
+                "Y Bot 1",
+                "Y Bot 2",
+                "Y Bot 3",
+                "Y Bot 4",
+                "Y Bot 5",
+                "Y Bot 6",
+                "Driver system",
+                "Control board, Speech recognition and TTS",
+                "3D model"
+            ],
+            "images": [
+                "Y-Bot0.jpg",
+                "Y-Bot1.jpg",
+                "Y-Bot2.jpg",
+                "Y-Bot3.jpg",
+                "Y-Bot4.jpg",
+                "Y-Bot5.jpg",
+                "Y-Bot6.jpg",
+                "Y-Bot7.jpg",
+                "Y Bot model.JPG"
+            ]
+        },
+        {
+            "tag": "robarm",
+            "name": "RobArm",
+            "time": "May 1, 2015",
+            "abstract": "Wireless control wearable master - slave humanoid mechanical arm.",
+            "discription": [
+                "RobArm system",
+                "Slave robot arm",
+                "Slave robot arm control board",
+                "Main components",
+                "Structure chart",
+                "Posture acquisition system"
+            ],
+            "images": [
+                "RobArm0.jpg",
+                "RobArm01.jpg",
+                "RobArm1.jpg",
+                "RobArm02.jpg",
+                "RobArm03.jpg",
+                "RobArm10.jpg"
+            ]
+        },
+        {
+            "tag": "freq_meter",
+            "name": "Frequency Meter",
+            "time": "Sep 6, 2015",
+            "abstract": "National Electronic Design Competition for College students.",
+            "discription": [
+                "Frequency meter 1",
+                "Frequency meter 2"
+            ],
+            "images": [
+                "Frequency Meter0.jpg",
+                "Frequency Meter1.jpg"
+            ]
+        },
+        {
+            "tag": "quadcopter",
+            "name": "Quadcopter",
+            "time": "Dec 15, 2015",
+            "abstract": "3D visual picture transmission quadcopter.",
+            "discription": [
+                "3D Vision Quadcopter",
+                "Video Receptor",
+                "3D Video Transmission System",
+                "3D Camera",
+                "Head Display"
+            ],
+            "images": [
+                "Quadcopter.jpg",
+                "VideoReceptor.jpg",
+                "3DVideoTransmitSystem.jpg",
+                "3DCamera.jpg",
+                "HeadDisplay.jpg"
+            ]
+        },
+        {
+            "tag": "other_works",
+            "name": "Other Works",
+            "time": "2013~now",
+            "abstract": "Other works.",
+            "discription": [
+                "Energy-Saving Streetlights(msp430)",
+                "Energy-Saving Streetlights2(msp430)",
+                "Spy Car",
+                "Stack Robot"
+            ],
+            "images": [
+                "Energy-Saving Street Lamp(msp430).jpg",
+                "Energy-Saving Street Lamp2(msp430).jpg",
+                "SpyCar.jpg",
+                "StackRobot.jpg"
+            ]
+        }
+    ]
+}
