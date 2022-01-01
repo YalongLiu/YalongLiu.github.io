@@ -1,7 +1,4 @@
 {
-    "base_info": {
-        "name": "Yalong Liu"
-    },
     "data": [
         {
             "tag": "tbs",
@@ -14,7 +11,7 @@
             ],
             "images": [
                 "TestPaperScoreRecognitionMachine.jpg",
-                "TPRMmodel.JPG"
+                "TPRMmodel.jpg"
             ]
         },
         {

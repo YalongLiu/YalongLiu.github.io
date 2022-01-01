@@ -10,9 +10,9 @@ window.onload = function () {
             json_data = JSON.parse(request.responseText);
 
             // Base information
-            for (var key in json_data.base_info) {
-                document.getElementById(key).innerHTML = json_data.base_info[key];
-            }
+            // for (var key in json_data.base_info) {
+            //     document.getElementById(key).innerHTML = json_data.base_info[key];
+            // }
 
             // Works card
             var work_n = json_data.data.length;
@@ -155,6 +155,7 @@ var pop_func = {
 
         // Change image
         var pop_img = document.getElementById("pop_img_" + pop_id);
+        pop_img.src = "images/loading.gif";
         pop_img.src = "images/other_works/images/" + img_list[pop_img_idx];
     },
     close: function () {
